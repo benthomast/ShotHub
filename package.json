@@ -17,7 +17,7 @@
     "@testing-library/user-event": "^7.2.1",
     "bootstrap": "^4.4.1",
     "express": "^4.17.1",
-    "flickr-sdk": "^3.9.0",
+    "flickr-sdk": "^6.2.1",
     "flickrapi": "^0.6.2",
     "immutability-helper": "^3.0.2",
     "jquery": "^3.5.0",
